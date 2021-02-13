@@ -15,7 +15,7 @@
 
 </ol>
 </p>
-<p> Repo: https://github.com/Developers-Community/eCommerce-</p>
+<p> Repo: a href="https://github.com/Developers-Community/eCommerce-" /></p>
 <p> Deploy: https://delix-shop.herokuapp.com/</p>
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
